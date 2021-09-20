@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Kat Codes
+description: Wait. What?
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
