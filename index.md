@@ -12,4 +12,4 @@ Link to a sample repository:
 ![My Picture](/pictures/thomas_and_mom.jpg)
 
 Here's a Python tutorial:
-[![Sorting with Lambda Functions] (https://youtube.com/vi/Lhno4T53vcg/0.jpg)](http://www.youtube.com/watch?v=Lhno4T53vcg)
+[![Sorting with Lambda Functions] (https://img.youtube.com/vi/Lhno4T53vcg/0.jpg)](http://www.youtube.com/watch?v=Lhno4T53vcg)
