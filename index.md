@@ -3,14 +3,15 @@ title: Kat Codes
 description: Wait. What?
 ---
 
-This is the content that I've developed for my courses:
+Course Work:
 - [Time Series Decomposition](/timeseries/index.md)
 
 
-Link to a sample repository:
-- [Sample Repository] https://github.com/katmakai/William_and_Mary
+Sample Repository:
+- [Sample Repository]https://github.com/katmakai/William_and_Mary
 
+This is me:
 ![My Picture](/pictures/thomas_and_mom.jpg)
 
-Here's a Python tutorial:
-[![Sorting with Lambda Functions] (https://img.youtube.com/vi/Lhno4T53vcg/0.jpg)](http://www.youtube.com/watch?v=Lhno4T53vcg)
+Python Tutorial:
+[![Sorting with Lambda Functions](https://img.youtube.com/vi/Lhno4T53vcg/0.jpg)](http://www.youtube.com/watch?v=Lhno4T53vcg)
