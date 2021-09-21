@@ -15,8 +15,11 @@ Sample Repository:
 
 A cute video of my Younger Son:
 
-[![Sorting with Lambda Functions](https://img.youtube.com/vi/FWKTcVG9Myc/0.jpg)](http://www.youtube.com/watch?v=FWKTcVG9Myc)
+[![Pledge of Allegience](https://img.youtube.com/vi/FWKTcVG9Myc/0.jpg)](http://www.youtube.com/watch?v=FWKTcVG9Myc)
 
+And another video of Younger Son: 
+
+[![Steel Pier Classic Grommet Division](https://img.youtube.com/vi/O3s2xxufiXM/0.jpg)](http://www.youtube.com/watch?v=O3s2xxufiXM)
 
 This is me and Elder Son:
 
