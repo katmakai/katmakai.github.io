@@ -5,7 +5,7 @@ description: Wait. What?
 
 Course Work:
 
-- [Time Series Decomposition](/timeseries/index.md)
+# - [Time Series Decomposition](/timeseries/index.md)
 
 Time Series Decomposition presentation:
 
